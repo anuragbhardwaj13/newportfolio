@@ -1,5 +1,6 @@
 .top-container{
     background-color: #5DA3FA ;
+    padding-bottom: 30px;
 }
 h1{
     font-family: 'Varela Round', sans-serif;
@@ -13,7 +14,7 @@ text-align: center;
 .intro2{
     font-family: 'Varela Round', sans-serif;
 
-    font-size: 1rem;
+    font-size: 1.25Srem;
     text-align: center;
 }
 .hello{
