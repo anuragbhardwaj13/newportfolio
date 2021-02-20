@@ -1,0 +1,32 @@
+.top-container{
+    background-color: #5DA3FA ;
+}
+h1{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 3.25rem;
+}
+.introduction{
+    margin-top: 30px;
+text-align: center;
+
+}
+.intro2{
+    font-family: 'Varela Round', sans-serif;
+
+    font-size: 1rem;
+    text-align: center;
+}
+.hello{
+    font-family: 'Merienda', cursive;
+    
+ }
+.image{
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 320px; 
+    height: 400px; 
+    object-fit: contain; 
+    padding-bottom: 20px;
+    
+}
